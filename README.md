@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">I am constantly improving myself as a junior full-stack developer.</h3>
+<h3 align="center">I am constantly improving myself as a full-stack developer.</h3>
 
 - 💬 Ask me about **html,css,javascript,react**
 
