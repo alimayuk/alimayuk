@@ -1,7 +1,3 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
 <h2 align="left">My name is Ali and I'm a full stack developer. I live in Antalya</h2>
 
 ###
